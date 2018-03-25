@@ -1,0 +1,92 @@
+.header {
+  height: 15vh;
+  width: 100%;
+  border: 2px solid black;
+  display: flex;
+}
+
+.header-icon {
+  height: 15vh;
+  width: 20%;
+  border: 2px dotted red;
+}
+
+.shiftBtns {
+  margin-left: 60%;
+}
+
+.btnContainer {
+  height: 15vh;
+  width: 10%;
+  border: 2px dotted blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Btn {
+  height: 8vh;
+  width: 4vw;
+  border-radius: 50%;
+  border: 2px solid green;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: stretch;
+  height: 125vh;
+  width: 95%;
+  margin: auto;
+}
+
+.cards {
+  height: 27vh;
+  width: 17%;
+  border: 2px solid black;
+}
+
+.footer {
+  height: 10vh;
+  width: 100%;
+  border: 2px dotted purple;
+  display: flex;
+  align-items: flex-end;
+}
+
+.footerBtnContainer {
+  height: 10vh;
+  width: 10%;
+  border: 2px solid green;
+  margin-left: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardName {
+  height: 4vh;
+  width: 100%;
+  border: 2px solid green;
+}
+
+.imageContainer {
+  height: 19vh;
+  width: 100%;
+  border: 2px dotted purple;
+}
+
+.cardBtnContainer {
+  height: 4vh;
+  width: 100%;
+  border: 2px solid red;
+  display: flex;
+}
+
+.cardBtn {
+  height: 4vh;
+  width: 33.33%;
+  border: 2px dotted green;
+}
